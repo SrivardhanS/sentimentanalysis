@@ -1,0 +1,6 @@
+comment,sentiment
+"The product is good",positive
+"The product is not good",negative
+
+"Great service! I'm really satisfied with the support I received",positive
+"Great service! I'm really satisfied with the support I received.",positive
